@@ -1,0 +1,4 @@
+﻿checkLotto.obj : error LNK2019: unresolved external symbol __imp__curl_easy_init referenced in function _main
+checkLotto.obj : error LNK2019: unresolved external symbol __imp__curl_easy_setopt referenced in function _main
+checkLotto.obj : error LNK2019: unresolved external symbol __imp__curl_easy_perform referenced in function _main
+C:\Users\Łukasz\source\repos\checkLotto\Debug\checkLotto.exe : fatal error LNK1120: 3 unresolved externals

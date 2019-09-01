@@ -1,8 +1,0 @@
-﻿  pch.cpp
-  checkLotto.cpp
-  Display.cpp
-  DownloadScore.cpp
-  Input.cpp
-  Generating Code...
-  C:\Users\Łukasz\source\repos\checkLotto\checkLotto\Input.cpp(56) : warning C4715: 'Input::checkInput': not all control paths return a value
-  checkLotto.vcxproj -> C:\Users\Łukasz\source\repos\checkLotto\x64\Debug\checkLotto.exe
